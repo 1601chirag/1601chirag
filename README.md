@@ -45,8 +45,6 @@ focus    : Backend · AI/ML · RAG · LLM Integration
 
 ## Languages
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00427E?style=flat-square&logo=cplusplus&logoColor=white)
@@ -54,8 +52,6 @@ focus    : Backend · AI/ML · RAG · LLM Integration
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-264DE4?style=flat-square&logo=css&logoColor=white)
-
-</div>
 
 ---
 
