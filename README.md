@@ -68,6 +68,7 @@ focus    : Backend · AI/ML · RAG · LLM Integration
 ![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logo=mistral&logoColor=white)
 ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-8E44AD?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
 **Backend & APIs**
 
@@ -81,6 +82,7 @@ focus    : Backend · AI/ML · RAG · LLM Integration
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-9B59B6?style=flat-square&logo=databricks&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 
 **Tools**
@@ -89,6 +91,9 @@ focus    : Backend · AI/ML · RAG · LLM Integration
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **iOS**
 
@@ -104,6 +109,7 @@ focus    : Backend · AI/ML · RAG · LLM Integration
 | AI Test Automation Framework | Python · LangChain · Mistral · pytest · Docker | [→](https://github.com/1601chirag/ai-test-framework) |
 | RAG Study Assistant | FastAPI · ChromaDB · SentenceTransformers · Ollama | [→](https://github.com/1601chirag/rag-study-assistant) |
 | Security Intelligence Platform | FastAPI · LangChain · NIST NVD · Docker · Plotly | [→](https://github.com/ph403178-web/security-intelligence-platform) |
+| Multi-Model AI Orchestrator | FastAPI · React · Redis · Docker · Pydantic · Recharts · TailwindCSS | [→](https://github.com/1601chirag/ai-orchestrator) |
 
 ---
 
