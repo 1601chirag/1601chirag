@@ -19,7 +19,7 @@
 **B.Tech CSE · MIT World Peace University, Pune**
 
 Third-year computer science student interested in backend systems, AI pipelines, and building things that work end-to-end.
-Currently at Infosys Mysore Development Centre.
+Completed internship at Infosys Mysore Development Centre.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chirag--poojari.vercel.app-E10600?style=for-the-badge&logo=vite&logoColor=white)](https://chirag-poojari.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chiragpoojari16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiragpoojari16)
@@ -37,8 +37,6 @@ degree   : B.Tech Computer Science & Engineering
 uni      : MIT World Peace University, Pune
 cgpa     : 8.95
 year     : Third Year (2023 – 2027)
-currently: Infosys Mysore Development Centre
-focus    : Backend · AI/ML · RAG · LLM Integration
 ```
 
 ---
