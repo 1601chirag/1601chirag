@@ -100,10 +100,10 @@ year     : Third Year (2023 – 2027)
 
 | Project | Stack | Link |
 |---------|-------|------|
-| AI Test Automation Framework | Python · LangChain · Mistral · pytest · Docker | [→](https://github.com/1601chirag/ai-test-framework) |
-| RAG Study Assistant | FastAPI · ChromaDB · SentenceTransformers · Ollama | [→](https://github.com/1601chirag/rag-study-assistant) |
-| Security Intelligence Platform | FastAPI · LangChain · NIST NVD · Docker · Plotly | [→](https://github.com/ph403178-web/security-intelligence-platform) |
 | Multi-Model AI Orchestrator | FastAPI · React · Redis · Docker · Pydantic · Recharts · TailwindCSS | [→](https://github.com/1601chirag/ai-orchestrator) |
+| Security Intelligence Platform | FastAPI · LangChain · NIST NVD · Docker · Plotly | [→](https://github.com/ph403178-web/security-intelligence-platform) |
+| RAG Study Assistant | FastAPI · ChromaDB · SentenceTransformers · Ollama | [→](https://github.com/1601chirag/rag-study-assistant) |
+| AI Test Automation Framework | Python · LangChain · Mistral · pytest · Docker | [→](https://github.com/1601chirag/ai-test-framework) |
 
 ---
 
